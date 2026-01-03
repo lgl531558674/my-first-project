@@ -25,3 +25,10 @@ git clone https://github.com/lgl531558674/my-first-project.git
 cd my-first-project
 # 如果有依赖
 pip install -r requirements.txt
+
+贡献
+欢迎提交 Issue 或 Pull Request！
+请先阅读 CONTRIBUTING.md（你可以以后再加这个文件）。
+
+作者
+lgl - 初始开发 - lgl531558674
