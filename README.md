@@ -13,6 +13,8 @@
 
 ## 快速开始
 
+### 安装
+
 ### 前置要求
 
 - Python 3.8 或更高版本
@@ -20,15 +22,20 @@
 
 ### 安装
 
-```bash
 git clone https://github.com/lgl531558674/my-first-project.git
 cd my-first-project
-# 如果有依赖
+#如果有依赖 （如以后添加了），取消下面这行的注释
 pip install -r requirements.txt
+
+## 运行
+python main.py
 
 ## 贡献
 欢迎提交 Issue 或 Pull Request！
-请先阅读 CONTRIBUTING.md（你可以以后再加这个文件）。
+如果你想贡献代码，请先阅读 CONTRIBUTING.md（后续可以再添加这个文件）。
+
 
 ## 作者
-lgl - 初始开发 - lgl531558674
+lgl - 初始开发与维护 - lgl531558674
+
+
