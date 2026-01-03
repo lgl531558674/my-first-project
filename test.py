@@ -12,10 +12,11 @@ import sys
                 
 def main():
     print("hello github")
-  
+    print("新增一行代码")
                 
 # 在代码的最后添加
 if __name__ == "__main__":
+    
     main()
     
    
